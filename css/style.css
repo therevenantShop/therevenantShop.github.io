@@ -378,7 +378,7 @@ code {
 #header-title .subtitle {
   font-size: 16px;
   font-style: italic;
-  line-height: 260px;
+  line-height: 93px;
   color: rgba(255,255,255,0.7);
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
@@ -885,6 +885,7 @@ code {
   color: #aaa;
   font-size: 13px;
   text-transform: uppercase;
+  display: none;
 }
 #recent-post li:hover .item-thumbnail {
   opacity: 0.8;
@@ -1065,6 +1066,7 @@ a.article-title:hover {
   color: #006bde;
 }
 .article-meta {
+  display: none;
   line-height: 1.6em;
 }
 .article-meta:before,
@@ -1661,11 +1663,11 @@ a.article-title:hover {
   line-height: 22px;
 }
 #footer .logo {
-  width: 200px;
-  height: 200px;
-  -webkit-background-size: 200px 200px;
-  -moz-background-size: 200px 200px;
-  background-size: 200px 200px;
+  width: 431.20000000000005px;
+  height: 66.4px;
+  -webkit-background-size: 431.20000000000005px 66.4px;
+  -moz-background-size: 431.20000000000005px 66.4px;
+  background-size: 431.20000000000005px 66.4px;
 }
 i.icon {
   display: inline-block;
